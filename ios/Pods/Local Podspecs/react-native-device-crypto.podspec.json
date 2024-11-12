@@ -1,0 +1,21 @@
+{
+  "name": "react-native-device-crypto",
+  "version": "0.1.7",
+  "summary": "Cryptographic operations inside the secure hardware for React Native",
+  "homepage": "https://github.com/arifaydogmus/react-native-device-crypto#readme",
+  "license": "ISC",
+  "authors": "Arif Aydogmus (https://github.com/arifaydogmus)",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/arifaydogmus/react-native-device-crypto.git",
+    "tag": "0.1.7"
+  },
+  "source_files": "ios/**/*.{h,m,mm}",
+  "dependencies": {
+    "React-Core": [
+
+    ]
+  }
+}
